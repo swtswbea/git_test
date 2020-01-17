@@ -1,5 +1,4 @@
-This is Kevin's first git project!
-# # # ## # # # # # # ## #  # # # #
+# # # # # # # # # # # # # # # # # #
 - o
 - p
 - #
@@ -7,3 +6,4 @@ This is Kevin's first git project!
 - 3
 - 3
 - 7
+# # # # # # # # # # # # # # # # # #
