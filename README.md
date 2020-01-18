@@ -1,5 +1,5 @@
 # # # # # # # # # # # # # # # # # #
-#This is my GIT learning repository!
+# This is my GIT learning repository!
 
 **My rotation:**
     1. touch [file]
